@@ -4,6 +4,8 @@ The goal of this exercise is to understand and grasp the workings of the File cl
 
 This is an exercise by [Evgeny Shadchnev](https://github.com/shadchnev).
 
-##Stack:
+(Week 2)
+
+##Technologies Used
 - Ruby
 - Command line
